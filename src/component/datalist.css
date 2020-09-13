@@ -2,4 +2,20 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 10px 0;
+}
+
+.ant-list-item-meta {
+  margin-bottom: 0 !important;
+}
+.ant-list-items li {
+  border: 1px solid black !important;
+  margin-bottom: 8px !important;
+  background-color: white;
+}
+li p {
+  color: black;
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 13px;
 }
